@@ -1,0 +1,12 @@
+{
+  "name": "smartgaga-cloud-bypass",
+  "version": "1.0.0",
+  "description": "Lightweight emulator connection bypass",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
